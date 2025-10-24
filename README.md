@@ -75,18 +75,31 @@ python -m venv .venv
 
 Step 3 — Install Dependencies
 pip install -r requirements.txt
+
 fastapi
+
 uvicorn
+
 pandas
+
 numpy
+
 requests
+
 websocket-client
+
 streamlit
+
 statsmodels
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 python-multipart
+
 
 
 Step 4 — Run the Application
