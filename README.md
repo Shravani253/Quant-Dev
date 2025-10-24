@@ -66,8 +66,8 @@ Prerequisites
 Install Python 3.9+
 
 Step 1 — Clone the Repo
-git clone https://github.com/Shravani253/quant-dev-assignment.git
-cd quant-dev-assignment
+git clone https://github.com/Shravani253/Quant-Dev.git
+cd Quant-Dev
 
 Step 2 — Create Virtual Environment
 python -m venv .venv
